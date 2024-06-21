@@ -6,4 +6,4 @@
 
    - **Data Preprocessing**: Methods for cleaning and preparing mammographic data, including normalization and augmentation techniques.
   - **Feature Extraction**: Techniques for extracting relevant features from images, such as texture, shape, and intensity-based features.
-  - **Model Development**: Implementation of various machine learning models, including KNN(K-Nearest Neighbour), Logistic Regression.
+  - **Model Development**: Implementation of various machine learning models, including KNN(K-Nearest Neighbour), Logistic Regression and Decision Tree Algorithm.
